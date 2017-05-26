@@ -39,6 +39,7 @@ file:///X:/文件目录地址/public/index.html
 ```
 
 ## Building
+
 通过`npm`安装本地服务第三方依赖模块（需要已安装[Node.js](https://nodejs.org/)），建议使用`cnpm`安装依赖的模块
 ```
 npm install
